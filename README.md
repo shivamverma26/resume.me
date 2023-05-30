@@ -1,6 +1,7 @@
 [![Project Logo](assets/resumez.png)](https://shivamverma26.github.io/resume.me/)  
 
-[![](https://img.shields.io/badge/Author-Shivam%20Verma-blue?style=flat-square&logo=appveyor)](https://bit.ly/csubhradipta) [![MIT License](https://img.shields.io/badge/License-MIT-brightgreen?style=flat-square)](https://choosealicense.com/licenses/mit/)  [![URL: csubhradipta.github.io/Resumez](https://github.com/shivamverma26/resume.me)](https://shivamverma26.github.io/resume.me)
+[![](https://img.shields.io/badge/Author-Shivam%20Verma-blue?style=flat-square&logo=appveyor)](https://bit.ly/csubhradipta) [![MIT License](https://img.shields.io/badge/License-MIT-brightgreen?style=flat-square)](https://choosealicense.com/licenses/mit/) 
+<!-- [![ shivamverm26.github.io/resume.me](https://github.com/shivamverma26/resume.me)](https://shivamverma26.github.io/resume.me) -->
 
 
 ### A Free and Open Source platform where you can build your resume efficiently with a lot of customization.
